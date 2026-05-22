@@ -91,6 +91,8 @@ v4.0 - Phone system
 v4.1 - Phone system
 
     Bugfix
+    New functionalities :
+    - interconnexion of the phone and messaging menus
 
 Credits
 -----
